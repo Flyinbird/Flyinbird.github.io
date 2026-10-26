@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>你好，世界</title>
+    <url>/2026/10/26/hello-blog/</url>
+    <content><![CDATA[<p>欢迎来到我的个人博客。</p>
+<p>这个博客使用 <a href="https://hexo.io/">Hexo</a> 构建，主题是 <a href="https://butterfly.js.org/">Butterfly</a>，并通过 GitHub Pages 发布。</p>
+<h2 id="为什么写博客"><a href="#为什么写博客" class="headerlink" title="为什么写博客"></a>为什么写博客</h2><ul>
+<li>记录学习过程中的思考与总结</li>
+<li>把零散的知识整理成可复用的笔记</li>
+<li>留下成长和生活的痕迹</li>
+</ul>
+<h2 id="从这里开始"><a href="#从这里开始" class="headerlink" title="从这里开始"></a>从这里开始</h2><p>你可以在顶部导航中浏览归档、分类和标签，也可以使用搜索框查找感兴趣的内容。</p>
+<p>希望这些文字对未来的自己，也对偶然路过的你，有一点帮助。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+</search>
